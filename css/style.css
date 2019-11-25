@@ -1316,4 +1316,18 @@ h2.b-w3ltxt, h3.b-w3ltxt {
     width: 85%;
 }
 }
+
+.tagLine{
+    color: #a4cb3a;
+    padding-left: 40px;
+}
+
+.greyLi{
+    color: #777 !important;
+}
+.testiUser{
+    font-size: 100px; 
+    padding-left:30px; 
+    color: #f2f7e4; 
+}
 /*-- //Responsive design --*/
